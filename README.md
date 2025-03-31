@@ -22,7 +22,7 @@ A simple TUI application written in Go that visualizes the first few rows of a p
 git clone https://github.com/user/paquetChecker.git
 cd paquetChecker
 
-# Build the application
+# Build the application. Please remove sample_generator before build
 go build -o paquetChecker
 ```
 
