@@ -28,7 +28,7 @@ go build -o paquetChecker
 
 ## Usage
 
-Run the application by providing a parquet file path as an argument:
+Place this application in the directory containing your parquet files and run it:
 
 ```bash
 ./paquetChecker
